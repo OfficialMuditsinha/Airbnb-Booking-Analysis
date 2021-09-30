@@ -19,3 +19,19 @@ Explore and analyze the data to discover key understandings (not limited to thes
 * Bivariate Data Analysis (Numerical vs Numerical)
 * Bivariate Data Analysis (Catagorical vs Numerical)
 * Conclusion
+
+# Libraries Used 
+* Pandas
+* Seaborn
+* Matplotlib
+* Numpy
+
+# Viz used
+* Boxplot
+* Countplot
+* Barplot
+* Distplot
+* Regplot
+* Stacked bar graph
+* Pie Chart
+
