@@ -8,3 +8,14 @@ Explore and analyze the data to discover key understandings (not limited to thes
 * What can we learn from predictions? (ex: locations, prices, reviews, etc)
 * Which hosts are the busiest and why?
 * Is there any noticeable difference of traffic among different areas and what could be the reason for it?
+
+# Steps Involved
+* Data Summary
+* Data Directory
+* Data Cleaning
+* Univariate Data Analysis (Catagorical variables)
+* Univariate Data Analysis (Numerical variables)
+* Bivariate Data Analysis (Catagorical vs Catagorical)
+* Bivariate Data Analysis (Numerical vs Numerical)
+* Bivariate Data Analysis (Catagorical vs Numerical)
+* Conclusion
